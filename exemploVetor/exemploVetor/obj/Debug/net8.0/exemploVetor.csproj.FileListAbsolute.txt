@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\bin\Debug\net8.0\exemploVetor.exe
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\bin\Debug\net8.0\exemploVetor.deps.json
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\bin\Debug\net8.0\exemploVetor.runtimeconfig.json
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\bin\Debug\net8.0\exemploVetor.dll
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\bin\Debug\net8.0\exemploVetor.pdb
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.dll
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\refint\exemploVetor.dll
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.pdb
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\exemploVetor.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exemploVetor\exemploVetor\obj\Debug\net8.0\ref\exemploVetor.dll

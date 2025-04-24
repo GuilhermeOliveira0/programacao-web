@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\bin\Debug\net8.0\exemploAula.exe
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\bin\Debug\net8.0\exemploAula.deps.json
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\bin\Debug\net8.0\exemploAula.runtimeconfig.json
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\bin\Debug\net8.0\exemploAula.dll
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\bin\Debug\net8.0\exemploAula.pdb
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.dll
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\refint\exemploAula.dll
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.pdb
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\exemploAula.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exemploAula\exemploAula\obj\Debug\net8.0\ref\exemploAula.dll
