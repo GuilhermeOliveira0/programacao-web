@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\projetoFornecedor\\projetoFornecedor.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\programacao-web\\projetoFornecedor\\projetoFornecedor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\projetoFornecedor\\projetoFornecedor.csproj": {
+    "C:\\Users\\Aluno\\Documents\\programacao-web\\projetoFornecedor\\projetoFornecedor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\projetoFornecedor\\projetoFornecedor.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\programacao-web\\projetoFornecedor\\projetoFornecedor.csproj",
         "projectName": "projetoFornecedor",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\projetoFornecedor\\projetoFornecedor.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\programacao-web\\projetoFornecedor\\projetoFornecedor.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\projetoFornecedor\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\programacao-web\\projetoFornecedor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

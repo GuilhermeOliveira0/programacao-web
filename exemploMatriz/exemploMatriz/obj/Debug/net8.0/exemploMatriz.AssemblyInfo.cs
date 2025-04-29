@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exemploMatriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8658f4e50cb6a717a1a63feb9c0d809044228fae")]
 [assembly: System.Reflection.AssemblyProductAttribute("exemploMatriz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exemploMatriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
