@@ -123,21 +123,37 @@ namespace CrudEstadoCidadeCliente.Controllers
             return View(estado);
         }
 
+        // POST: Estados/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Estados == null)
             {
-                return Problem("Entity set 'ApplicationDbContext.Estados'  is null.");
-            }
-            var estado = await _context.Estados.FindAsync(id);
-            if (estado != null)
-            {
-                _context.Estados.Remove(estado);
+                return Problem("Entity set 'ApplicationDbContext.Estados' is null.");
             }
 
+            var estado = await _context.Estados.FindAsync(id);
+            if (estado == null)
+            {
+                return NotFound();
+            }
+
+            // Verificar se existem cidades associadas ao estado
+            var cidadesAssociadas = await _context.Cidades
+                .AnyAsync(c => c.EstadoId == id);
+
+            if (cidadesAssociadas)
+            {
+                // Se existirem cidades associadas, redireciona ou mostra um erro
+                ModelState.AddModelError("", "Não é possível excluir este estado, pois ele possui cidades associadas. Exclua primero as cidades que possuem o Estado relacionados!");
+                return View(estado); // Retorna a mesma view para exibir o erro
+            }
+
+            // Se não houver cidades associadas, podemos excluir o estado
+            _context.Estados.Remove(estado);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

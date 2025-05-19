@@ -62,6 +62,7 @@
                     {
                         <div class="alert alert-danger">
                             Nenhuma cidade disponível. Cadastre cidades primeiro.
+                            <a href="@Url.Action("Create", "Cidade")" class="btn btn-link">Clique aqui para cadastrar uma cidade.</a>
                         </div>
                     }
                     <span asp-validation-for="CidadeId" class="text-danger"></span>

@@ -1,8 +1,42 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Página Principal";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <div class="text-center mb-5">
+        <h1 class="display-5 fw-bold">Bem-vindo ao Sistema de Gestão</h1>
+        <p class="lead text-muted">Gerencie estados, cidades e clientes de forma prática e eficiente!</p>
+    </div>
+
+    <div class="row g-4 justify-content-center">
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-semibold mb-3">Cadastro de Estados</h5>
+                    <p class="card-text">Gerencie informações dos estados.</p>
+                    <a href="/Estados" class="btn btn-primary w-100">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-semibold mb-3">Cadastro de Cidades</h5>
+                    <p class="card-text">Gerencie as cidades disponíveis.</p>
+                    <a href="/Cidades" class="btn btn-success w-100">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-semibold mb-3">Cadastro de Clientes</h5>
+                    <p class="card-text">Gerencie os clientes cadastrados.</p>
+                    <a href="/Clientes" class="btn btn-info text-white w-100">Acessar</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
