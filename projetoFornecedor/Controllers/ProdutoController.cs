@@ -48,7 +48,7 @@ namespace projetoFornecedor.Controllers
         // GET: Produto/Create
         public IActionResult Create()
         {
-            ViewData["FornecedorId"] = new SelectList(_context.Fornecedores, "FornecedorId", "FornecedorId");
+            ViewData["FornecedorId"] = new SelectList(_context.Fornecedores, "FornecedorId", "Nome");
             return View();
         }
 
